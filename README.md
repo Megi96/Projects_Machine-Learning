@@ -5,13 +5,13 @@ It serves as a personal workspace for learning, testing ideas, and building prot
 
 Each project is organized in its own directory and may include:
 
-Jupyter notebooks
+*Jupyter notebooks
 
-preprocessing scripts
+*Preprocessing scripts
 
-datasets (or links to datasets)
+*Datasets (or links to datasets)
 
-documentation and notes
+*Documentation and notes
 
 The goal of this repository is to track progress, test different workflows, and build a reference library of machine-learning experiments. 
 
@@ -26,7 +26,7 @@ The goal of this repository is to track progress, test different workflows, and 
 ├── Project_2_Name/
 │   ├── notebook.ipynb
 │   ├── README.md
-│   └── src/ (optional)
+│   └── src/
 │
 ├── ...
 │
