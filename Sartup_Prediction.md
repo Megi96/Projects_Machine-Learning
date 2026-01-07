@@ -123,5 +123,3 @@ It highlights how data-driven analysis can move beyond prediction to **strategic
 - scikit-learn
 - matplotlib / seaborn
 - plotly
-
--
