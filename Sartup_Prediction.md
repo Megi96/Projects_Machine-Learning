@@ -124,8 +124,4 @@ It highlights how data-driven analysis can move beyond prediction to **strategic
 - matplotlib / seaborn
 - plotly
 
----
-
-## 👤 Author
-**Megi Xibrraku**  
-Startup Success Prediction | Machine Learning & Data Analysis Project
+-
